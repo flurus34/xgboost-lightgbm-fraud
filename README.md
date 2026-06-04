@@ -41,10 +41,3 @@
 ├── replication.ipynb  # Jupyter Notebook с полным циклом EDA, обучения и валидации
 ├── README.md          # Документация и отчет по проекту
 └── requirements.txt   # Список программных зависимостей (XGBoost, LightGBM и др.)
-
-##  Инструкция по развертыванию и запуску
-
-1. **Клонирование репозитория:**
-bash
-git clone [https://github.com/flurus34/xgboost-lightgbm-fraud.git](https://github.com/flurus34/xgboost-lightgbm-fraud.git)
-cd xgboost-lightgbm-fraud
