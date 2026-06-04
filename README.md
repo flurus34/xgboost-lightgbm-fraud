@@ -1,6 +1,6 @@
 # Масштабируемое машинное обучение: репликация и оптимизация алгоритмов градиентного бустинга XGBoost и LightGBM на больших табличных данных
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flurus34/xgboost-lightgbm-fraud/blob/main/replication.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flurus34/xgboost-lightgbm-fraud/blob/main/src/replication.ipynb)
 
 Репозиторий содержит материалы научно-исследовательской работы по сравнительному анализу, репликации и оптимизации современных архитектур градиентного бустинга (GBDT) в условиях экстремального дисбаланса классов.
 
