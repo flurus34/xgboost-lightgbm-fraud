@@ -36,12 +36,8 @@
 ## Структура проекта
 
 ```text
-├── data/
-│   └── README.md          # Инструкция и ссылка на скачивание датасета с Kaggle
-├── notebooks/
-│   └── replication.ipynb  # Jupyter Notebook с полным циклом EDA, обучения и валидации
-├── plots/
-│   └── feature_importance.png  # График сравнительного анализа важности признаков
+├── src/
+│   └── replication.ipynb  # основной файл
 ├── README.md              # Документация проекта
 └── requirements.txt       # Список программных зависимостей
 
